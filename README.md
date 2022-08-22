@@ -1,6 +1,12 @@
 # ApexDB
 ApexDB - Simple, light &amp; easy to use OpenSource Node.js database.
 ApexDB allows you to create a database from a json file and conveniently work with it using JavaScript/TypeScript. ApexDB does not load your server, which means you have more resources for the main application to work. Below you can find examples of working with a database in JavaScript.
+
+## Install
+```
+npm install @eyeeeeer/ApexDB
+```
+
 ## Example (JavaScript)
 ```js
 const apexDB = require("@eyeeeeer/ApexDB");
