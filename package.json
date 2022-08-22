@@ -1,0 +1,30 @@
+{
+  "name": "apex-db",
+  "version": "1.0.0",
+  "description": "ApexDB - Simple, light & easy to use OpenSource Node.js database.",
+  "main": "apex.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyeeeeer/ApexDB.git"
+  },
+  "keywords": [
+    "apexdb",
+    "apex-db",
+    "database",
+    "simple",
+    "easy",
+    "db",
+    "apex"
+  ],
+  "author": "eyeeeeer",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/eyeeeeer/ApexDB/issues"
+  },
+  "homepage": "https://github.com/eyeeeeer/ApexDB#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security"
+  }
+}
